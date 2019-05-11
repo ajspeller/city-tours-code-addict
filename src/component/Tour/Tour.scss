@@ -21,14 +21,14 @@
   display: block;
   top: 5%;
   right: 5%;
-  color: $mainGreen;
+  color: $mainRed;
   font-size: 2rem;
   cursor: pointer;
   transition: all 0.3s linear;
   opacity: 0;
 }
 
-.imq-container:hover .close-btn {
+.img-container:hover .close-btn {
   opacity: 1;
 }
 
